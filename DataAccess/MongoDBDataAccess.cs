@@ -19,7 +19,7 @@ namespace DataAccess
         {
             try
             {
-                var mongoUrl = new MongoUrl(_connectionString);
+                var mongoUrl = MongoUrl.Create(_connectionString);
                 X509Certificate2 sslCert;
 
                 MongoClientSettings settings = new MongoClientSettings
@@ -35,7 +35,7 @@ namespace DataAccess
                     {
                         ClientCertificates = new[] { sslCert }
                     };
-                    settings.VerifySslCertificate = true;
+                    settings.VerifySslCertificate = false;
                 }
 
                 MongoClient client = new MongoClient(settings);

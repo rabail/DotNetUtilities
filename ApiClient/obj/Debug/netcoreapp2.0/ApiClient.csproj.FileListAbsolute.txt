@@ -10,7 +10,6 @@ c:\users\rabai\source\repos\DataAccess\ApiClient\obj\Debug\netcoreapp2.0\ApiClie
 C:\Users\Rabai\source\repos\Utilities\ApiClient\bin\Debug\netcoreapp2.0\ApiClient.deps.json
 C:\Users\Rabai\source\repos\Utilities\ApiClient\bin\Debug\netcoreapp2.0\ApiClient.dll
 C:\Users\Rabai\source\repos\Utilities\ApiClient\bin\Debug\netcoreapp2.0\ApiClient.pdb
-C:\Users\Rabai\source\repos\Utilities\ApiClient\obj\Debug\netcoreapp2.0\ApiClient.csprojResolveAssemblyReference.cache
 C:\Users\Rabai\source\repos\Utilities\ApiClient\obj\Debug\netcoreapp2.0\ApiClient.csproj.CoreCompileInputs.cache
 C:\Users\Rabai\source\repos\Utilities\ApiClient\obj\Debug\netcoreapp2.0\ApiClient.AssemblyInfoInputs.cache
 C:\Users\Rabai\source\repos\Utilities\ApiClient\obj\Debug\netcoreapp2.0\ApiClient.AssemblyInfo.cs
